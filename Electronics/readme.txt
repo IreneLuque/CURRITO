@@ -33,7 +33,7 @@ functions will be used by specifying frequency in hertz and note
 duration. Arduino provides a range of functions to make the most 
 of each of the devices.
 
--As explained in the document, RPi camera is coded in Python and serial port communication is needed. Some camera 
+-RPi Camera: as explained in the document, RPi camera is coded in Python and serial port communication is needed. Some camera 
 examples oriented to photographs and videos are added. Communication between the Arduino and Raspberry Pi
 is established through the serial port by connecting the USB-B of the Arduino to one of the USB-A ports on the
 RPi. The camera on the RPi-4B is programmed using the Thonny Python IDE.
